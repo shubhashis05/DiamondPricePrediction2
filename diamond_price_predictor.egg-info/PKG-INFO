@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: diamond_price_predictor
+Version: 0.0.1
+Author: shubhashis das
+Author-email: shubhashis.das@example.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: flask
